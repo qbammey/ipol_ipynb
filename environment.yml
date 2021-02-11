@@ -1,0 +1,13 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - imageio=2.9.*
+  - ipython=7.19.*
+  - ipywidgets=7.6.*
+  - matplotlib=3.3.*
+  - matplotlib-base=3.3.*
+  - nbconvert=6.0.*
+  - pillow=8.1.*
+  - voila=0.2.*
