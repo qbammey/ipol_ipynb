@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - imageio=2.9.*
+  - ipympl=0.5.*
   - ipython=7.19.*
   - ipywidgets=7.6.*
   - matplotlib=3.3.*
